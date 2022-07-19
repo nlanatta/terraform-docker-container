@@ -1,6 +1,6 @@
 ## How to execute honeycomb from a docker, init, plan, apply, destroy
 
-### Cd intro each case as instance
+### Cd into each case as instance
 ```shell
 cd provider/honeycomb/board
 ```
